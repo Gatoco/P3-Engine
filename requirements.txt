@@ -1,16 +1,38 @@
-# Core Dependencies
-fastapi>=0.100.0
-uvicorn>=0.23.0
-pydantic>=2.0.0
-python-dotenv>=1.0.0
+# --- Core Application ---
+# Framework para la API REST
+fastapi
 
-# AI / Data
-langchain>=0.0.300
-openai>=0.28.0
-tiktoken>=0.5.0
-qdrant-client>=1.6.0
-sentence-transformers>=2.2.2
+# Servidor ASGI para FastAPI
+uvicorn[standard]
 
-# Utilities
-httpx>=0.24.1
-loguru>=0.7.0
+# Validación de datos y modelos
+pydantic
+
+# Gestión de configuración desde variables de entorno
+pydantic-settings
+
+# Sistema de logging mejorado
+loguru
+
+# --- RAG & AI ---
+# Framework de orquestación para aplicaciones con LLMs
+langchain
+
+# Librería cliente para Google Cloud AI y Vertex AI (Gemini)
+google-cloud-aiplatform
+
+# Para el uso de modelos de embedding open-source locales
+sentence-transformers
+
+# Cliente para la base de datos vectorial Qdrant
+qdrant-client
+
+# Para la carga de documentos PDF
+pypdf
+
+# Para la carga de documentos no estructurados (ej. Markdown)
+unstructured[md]
+
+# --- Utilities ---
+# Para la creación de interfaces de línea de comandos (CLI)
+typer

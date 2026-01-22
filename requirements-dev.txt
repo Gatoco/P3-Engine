@@ -1,0 +1,12 @@
+# Instala las dependencias de producción
+-r requirements.txt
+
+# --- Testing & Development ---
+# Framework de testing
+pytest
+
+# Para medir la cobertura de los tests
+pytest-cov
+
+# Cliente HTTP para tests de integración
+httpx
