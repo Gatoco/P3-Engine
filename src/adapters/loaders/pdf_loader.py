@@ -1,1 +1,1 @@
-# Implementación de un cargador de documentos para archivos PDF.
+# Implementación de un cargador de documentos para extraer texto de archivos PDF.

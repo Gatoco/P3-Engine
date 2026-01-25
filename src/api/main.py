@@ -1,1 +1,1 @@
-# Punto de entrada principal de la aplicación FastAPI. Inicializa la app y monta las rutas.
+# Punto de entrada principal de la aplicación FastAPI. Inicializa la app, configura middlewares y monta las rutas.

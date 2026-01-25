@@ -1,1 +1,1 @@
-# Implementación (adaptador) del EmbeddingPort usando modelos SentenceTransformer.
+# Implementación (adaptador) del EmbeddingPort usando modelos SentenceTransformer (para Fase 3).

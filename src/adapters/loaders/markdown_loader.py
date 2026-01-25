@@ -1,1 +1,1 @@
-# Implementación de un cargador de documentos para archivos Markdown.
+# Implementación de un cargador de documentos para extraer texto de archivos Markdown.

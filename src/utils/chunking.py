@@ -1,1 +1,1 @@
-# Contiene funciones de utilidad para dividir texto en fragmentos (chunks).
+# Contiene la lógica para dividir un texto largo en trozos (chunks) más pequeños.

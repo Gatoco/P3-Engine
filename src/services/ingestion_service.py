@@ -1,1 +1,1 @@
-# Orquesta el caso de uso de ingesta: carga, divide y almacena documentos.
+# Orquesta el flujo de ingesta: carga, divide, genera embeddings y almacena documentos.

@@ -1,1 +1,1 @@
-# Define modelos de configuración estructurados (ej. usando Pydantic BaseSettings).
+# Eliminar este archivo si toda la configuración se centraliza en config.py

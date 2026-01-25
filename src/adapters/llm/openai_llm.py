@@ -1,1 +1,1 @@
-# Implementación (adaptador) del LLMPort usando la API de OpenAI.
+# Implementación (adaptador) del LLMPort usando la API de OpenAI (Opcional).

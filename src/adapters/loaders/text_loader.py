@@ -1,1 +1,1 @@
-# Implementación de un cargador de documentos para archivos de texto plano.
+# Implementación de un cargador de documentos para extraer texto de archivos de texto plano.

@@ -1,1 +1,1 @@
-# Orquesta el flujo RAG: recupera contexto y genera una respuesta a una consulta.
+# Orquesta el flujo de consulta RAG: recibe una pregunta, busca contexto y genera una respuesta.
